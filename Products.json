@@ -34,6 +34,42 @@
 	"price":1500,
 	"photo":"https://thumbs.dreamstime.com/b/black-snowboard-black-bindings-isolated-white-clipping-path-64545625.jpg",
 	"description":"Introducing our Beyond green 4 snowboard bindings – the ultimate partner for your mountain adventures. Engineered for optimal control and comfort, these bindings feature a user-friendly design with quick and secure adjustments. The lightweight yet durable construction ensures responsiveness on any terrain, while the sleek aesthetics add a touch of style to your setup. Elevate your riding experience with the precision and reliability of [Product Name] bindings – because every ride deserves the perfect link between you and your board."
+},
+{ 
+	"name":"Snowboard boots",
+	"price":2300,
+	"photo":"https://live.staticflickr.com/617/21458043060_5e641de545_h.jpg",
+	"description":"Introducing our Osiris black snow snowboard boots – the perfect fusion of style and performance. With an advanced lacing system for a precise fit, durable protection against the elements, and a responsive sole for enhanced control, these boots redefine winter shredding. Stay warm, look cool, and conquer any slope with confidence. Elevate your ride with the Osiris black snow boots."
+},
+{
+	"name":"Snowboard bindings",
+	"price":1500,
+	"photo":"https://thumbs.dreamstime.com/b/black-snowboard-black-bindings-isolated-white-clipping-path-64545625.jpg",
+	"description":"Introducing our Beyond green 4 snowboard bindings – the ultimate partner for your mountain adventures. Engineered for optimal control and comfort, these bindings feature a user-friendly design with quick and secure adjustments. The lightweight yet durable construction ensures responsiveness on any terrain, while the sleek aesthetics add a touch of style to your setup. Elevate your riding experience with the precision and reliability of [Product Name] bindings – because every ride deserves the perfect link between you and your board."
+},
+{
+	"name":"Burton Ripcord",
+	"price":6000,
+	"photo":"https://static.outnorth.com/image/upload/b_white,c_lpad,d_no_image_chlzht.png,f_auto,fl_lossy,h_1200,q_auto,w_1200/v1697839642/uploads/live_product_image/file/0/0/791/791858/burton-men-s-ripcord-snowboard.png",
+	"description":"The Men's Ripcord Flat Top Snowboard from Burton is a board for men that is perfect for those who are just starting to snowboard. It's a soft and playful board that makes it easy to learn with good control. It's well-suited for most terrains and snow conditions."
+},
+{
+	"name":"Burton Ripcord",
+	"price":6000,
+	"photo":"https://static.outnorth.com/image/upload/b_white,c_lpad,d_no_image_chlzht.png,f_auto,fl_lossy,h_1200,q_auto,w_1200/v1697839642/uploads/live_product_image/file/0/0/791/791858/burton-men-s-ripcord-snowboard.png",
+	"description":"The Men's Ripcord Flat Top Snowboard from Burton is a board for men that is perfect for those who are just starting to snowboard. It's a soft and playful board that makes it easy to learn with good control. It's well-suited for most terrains and snow conditions."
+},
+{ 
+	"name":"Snowboard boots",
+	"price":2300,
+	"photo":"https://live.staticflickr.com/617/21458043060_5e641de545_h.jpg",
+	"description":"Introducing our Osiris black snow snowboard boots – the perfect fusion of style and performance. With an advanced lacing system for a precise fit, durable protection against the elements, and a responsive sole for enhanced control, these boots redefine winter shredding. Stay warm, look cool, and conquer any slope with confidence. Elevate your ride with the Osiris black snow boots."
+},
+{
+	"name":"Snowboard bindings",
+	"price":1500,
+	"photo":"https://thumbs.dreamstime.com/b/black-snowboard-black-bindings-isolated-white-clipping-path-64545625.jpg",
+	"description":"Introducing our Beyond green 4 snowboard bindings – the ultimate partner for your mountain adventures. Engineered for optimal control and comfort, these bindings feature a user-friendly design with quick and secure adjustments. The lightweight yet durable construction ensures responsiveness on any terrain, while the sleek aesthetics add a touch of style to your setup. Elevate your riding experience with the precision and reliability of [Product Name] bindings – because every ride deserves the perfect link between you and your board."
 }
 
 
